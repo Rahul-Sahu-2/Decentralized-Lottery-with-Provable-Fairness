@@ -1,7 +1,7 @@
 # Decentralized Lottery with Provable Fairness
 
 ## Project Description
-
+ 
 A transparent blockchain-based lottery system built with Solidity smart contracts. Players enter by paying a fixed fee, and winners are selected automatically through cryptographic randomness. All transactions are recorded on-chain, eliminating the need for trust in centralized authorities. The smart contract handles entries, winner selection, and instant prize distribution without any intermediaries.
 
 ## Project Vision
