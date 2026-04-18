@@ -1,4 +1,4 @@
-# Decentralized Lottery with Provable Fairness
+# Decentralized Lottery with Provable Fairness 
 
 ## Project Description
  
@@ -41,10 +41,10 @@ To create a completely transparent and fair lottery system where:
 
 ### Long-term
 - Cross-chain lottery participation
-- Progressive jackpot mechanism
+- Progressive jackpot mechanism 
 - Subscription auto-entry model
 - Social features (team lotteries, leaderboards)
-- Regulatory compliance tools (KYC/AML)
+- Regulatory compliance tools (KYC/AML)  
 
 ## Contract Address - 0x34cB706b16e4373A980F8Daf3C89237B2bB3a5bb
 <img width="1919" height="894" alt="Screenshot 2025-11-17 123402" src="https://github.com/user-attachments/assets/f7250e63-8a14-4b1e-80f1-0d70abcb1442" />
